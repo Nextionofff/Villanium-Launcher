@@ -1,15 +1,15 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "Villanium-Launcher",
+    "preductname": "Villanium Launcher",
     "version": "2.0.0",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "description": "Launcher Mincraft pour le serveur Villanium",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
+        "name": "luuxis, Azote Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://launcher.luuxis.fr/launcherSelvania",
+    "url": "http://Azote.luuxis.fr",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
