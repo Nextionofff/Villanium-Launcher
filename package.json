@@ -1,7 +1,7 @@
 {
     "name": "Villadium-Launcher",
     "preductname": "Villadium Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher Mincraft pour le serveur Villadium",
     "main": "src/app.js",
     "author": {
